@@ -1,0 +1,34 @@
+.title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #000000;
+  margin-top: 24px;
+  margin-bottom: 10px;
+}
+
+.top-singer {
+  width: 100%;
+  max-width: 185px;
+}
+.top-singer:hover {
+  cursor: pointer;
+}
+
+.singer-img {
+  border-radius: 15px;
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+}
+.singer-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  margin-top: 6px;
+}

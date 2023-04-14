@@ -1,0 +1,121 @@
+.left-menu {
+  background: #f5f5f5;
+  border-radius: 20px;
+  width: 271px;
+  flex-shrink: 0;
+  padding: 11px 10px;
+  height: 100%;
+  min-height: calc(100vh - 55px);
+}
+.logo {
+  width: 178px;
+  margin: 0;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  padding: 5px 7px;
+  margin-bottom: 10px;
+  transition: 0.3s;
+  position: relative;
+}
+.menu-item-active,
+.menu-item:hover {
+  background: #e1d8e9;
+  border-radius: 20px;
+}
+.menu-item-text {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 35px;
+  color: #000000;
+  margin-left: 10px;
+}
+.menu-item-icon {
+  margin: 0;
+  margin-right: 3px;
+}
+.menu-item-text:hover {
+  cursor: pointer;
+}
+.menu-items {
+  margin-top: 47px;
+}
+
+.overlay .tooltip-inner {
+  background-color: #c8abe2f0;
+  padding: 23px 30px;
+  max-width: 300px;
+  width: 100%;
+  text-align: left;
+}
+
+.tooltip-btns {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.tooltip-login-btn {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  margin-left: 10px;
+  font-size: 16px;
+  line-height: 19px;
+  color: #ffffff;
+  padding: 9px 16px;
+  background: rgba(157, 92, 240, 0.78);
+  border-radius: 40px;
+  display: flex;
+  width: max-content;
+  transition: 0.3s;
+  border: none;
+}
+
+.tooltip-text {
+  color: #000000;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 23px;
+}
+
+.tooltip-login-btn:hover,
+.tooltip-login-btn:active {
+  opacity: 0.8;
+  background-color: rgba(157, 92, 240, 0.78) !important;
+}
+
+.tooltip-later-btn {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+  transition: 0.3s;
+  background-color: transparent;
+  border: none;
+}
+
+.tooltip-later-btn:hover,
+.tooltip-later-btn:active {
+  opacity: 0.5;
+  background-color: transparent !important;
+  color: #000000 !important;
+}
+
+.overlay .tooltip-arrow::before {
+  border-right-color: #c8abe2f0;
+}
+
+@media (max-width: 1100px) {
+  .left-menu {
+    display: none;
+  }
+}

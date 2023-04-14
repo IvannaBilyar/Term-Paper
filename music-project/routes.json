@@ -1,0 +1,4 @@
+{
+  "/usersPlaylist/:id/list": "/list?_embed=songs",
+  "/usersPlaylist/:id/list/:listId": "/list/:listId?_embed=songs"
+}

@@ -1,0 +1,84 @@
+.singer-top {
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 40% 60%;
+  gap: 1px;
+  cursor: pointer;
+}
+
+.singer-top-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+
+  color: #000000;
+}
+
+.singer-top-image {
+  max-width: 482px;
+  height: 358px;
+  border-radius: 15px;
+  margin-left: 1px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.singer-top-name {
+  font-family: "Istok Web";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 35px;
+
+  color: #000000;
+}
+
+.recommendation {
+  width: 253px;
+  gap: 50px;
+  cursor: pointer;
+}
+
+.recommendation-img {
+  width: 100%;
+  object-fit: cover;
+  height: 252px;
+  border-radius: 15px;
+  margin: 0;
+}
+
+.recommendation-name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  margin-top: 14px;
+  color: #000000;
+}
+
+.recommendation-singer {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+}
+
+.singer-songs-wrapper {
+  overflow-y: scroll;
+  max-height: 360px;
+  padding-right: 25px;
+}
+
+@media (max-width: 1250px) {
+  .singer-top {
+    grid-template-rows: 1fr 1fr;
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+
+}

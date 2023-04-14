@@ -1,0 +1,22 @@
+.top-hit-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #000000;
+  margin-top: 38px;
+  margin-bottom: 20px;
+}
+
+.top-hits {
+  overflow-y: scroll;
+  max-height: 270px;
+  padding-right: 25px;
+}
+
+@media (max-width: 650px) {
+  .top-hits {
+    padding-right: 10px;
+  }
+}

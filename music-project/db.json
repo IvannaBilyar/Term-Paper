@@ -1,0 +1,956 @@
+{
+  "top-singers": [
+    {
+      "id": 1,
+      "title": "Golubenko",
+      "img": "https://i.ytimg.com/vi/mUbmFnUz0TQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGDsgSyh_MA8=&rs=AOn4CLC2aZO-6OHBLJuSFvwMXDvEAkBMlg",
+      "recommendations": [
+        {
+          "id": 1,
+          "singer": "Jerry Heil feat. KALUSH",
+          "key": "KALUSH, Jerry Heil - Хвилі",
+          "name": "Хвилі",
+          "img": "https://notatky.com.ua/wp-content/uploads/2021/10/hvyli_kalush_jerry_heil-1.jpg"
+        },
+        {
+          "id": 2,
+          "singer": "VLADLEN",
+          "name": "Закоханий знов",
+          "key": "VLADLEN - Закоханий знов",
+          "img": "https://i.ytimg.com/vi/6Z4lpPRUF64/maxresdefault.jpg"
+        },
+        {
+          "id": 3,
+          "singer": "Анна Трінчер & POSITIFF",
+          "name": "Який ти козак",
+          "key": "anna-trincher-positiff-yakij-ti-kozak",
+          "img": "https://i1.sndcdn.com/artworks-UpdHkBcBoFzHcHIt-uq2bzw-t500x500.jpg"
+        },
+        {
+          "id": 4,
+          "singer": "SHUMEI",
+          "name": "Біля тополі",
+          "key": "shumei-bilia-topoli",
+          "img": "https://i.scdn.co/image/ab67616d0000b273c2290cdffba3f61e2140e9d0"
+        },
+        {
+          "id": 5,
+          "singer": "Jerry Heil feat. alyona alyona, Ela",
+          "key": "alyona-alyona-jerry-heil-ela-kupala",
+          "name": "KUPALA",
+          "img": "https://i.ytimg.com/vi/jawbUmo2FLs/maxresdefault.jpg"
+        },
+        {
+          "id": 6,
+          "singer": "MONATIK",
+          "key": "monatik-from-u-to-z",
+          "name": "From U to Z",
+          "img": "https://i.ytimg.com/vi/2utk54RSJQU/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "TVORCHI",
+      "img": "https://lh3.googleusercontent.com/dQcCKrdBPQ1CAkGWLTwVTtQ2K8KubtroW9_e9duvAToglJYZTbhT1o2Z7iPgCE8MyKvMeWAdJuVj=w544-h544-p-l90-rj",
+      "recommendations": [
+        {
+          "id": 1,
+          "singer": "CHEEV",
+          "name": "Гарно так",
+          "key": "cheev-harno-tak",
+          "img": "https://i1.sndcdn.com/artworks-nMchLi99CjYp-0-t500x500.jpg"
+        },
+        {
+          "id": 2,
+          "singer": "Jerry Heil",
+          "name": "Пошта",
+          "key": "jerry-heil-poshta",
+          "img": "https://showbiz.24tv.ua/resources/photos/news/202202/1859538.jpg?v=1661256820000"
+        },
+        {
+          "id": 3,
+          "singer": "Averin, CHURSANOV",
+          "name": "Не забувай",
+          "key": "averin-ne-zabuvai",
+          "img": "https://i.scdn.co/image/ab67616d0000b27332bf12a1539ea6a87d1c04d2"
+        },
+        {
+          "id": 4,
+          "singer": "Skofka",
+          "name": "Не забудем і не пробачим",
+          "key": "skofka-ne-zabudem",
+          "img": "https://i.ytimg.com/vi/lsbeyLKHENE/maxresdefault.jpg"
+        },
+        {
+          "id": 5,
+          "singer": "MONATIK",
+          "name": "Старі фотографії",
+          "key": "monatik-stari-photo",
+          "img": "https://i.ytimg.com/vi/UGkPQzq5Ujs/maxresdefault.jpg"
+        },
+        {
+          "id": 6,
+          "singer": "KOLA",
+          "key": "kola-bilya-sertsya",
+          "name": "Біля серця",
+          "img": "https://i.scdn.co/image/ab67616d0000b2739bbaa9bb519fc0de66d5e504"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "KAZKA",
+      "img": "https://lifeimg.pravda.com/images/doc/e/a/eaafea7-kazka-1320.jpg",
+      "recommendations": [
+        {
+          "id": 1,
+          "singer": "Артем Пивоваров",
+          "name": "Ой на горі",
+          "key": "artem-pyvovarov",
+          "img": "https://bestmusic.com.ua/media/zoo/images/DSC06767-Edit_9906417606c43c05943002fdbb82130a.jpg.pagespeed.ce.D_wqWIc2lT.jpg"
+        },
+        {
+          "id": 2,
+          "singer": "MAMARIKA",
+          "name": "Проліски",
+          "key": "mamarika-proliski",
+          "img": "https://i.ytimg.com/vi/hBnSijp5Mdc/maxresdefault.jpg"
+        },
+        {
+          "id": 3,
+          "singer": "YAKTAK feat. Jerry Heil",
+          "name": "В пустій кімнаті",
+          "key": "yaktak-jerry-heil",
+          "img": "https://i1.sndcdn.com/artworks-28GFtvP1wzy9saT5-uHldxg-t500x500.jpg"
+        },
+        {
+          "id": 4,
+          "singer": "KALUSH feat. Христина Соловій",
+          "name": "Таксі",
+          "key": "kalush-hristina-solovij-taksi",
+          "img": "https://images.genius.com/d39156628d56c72f4c18d9b65b0c532e.1000x1000x1.jpg"
+        },
+        {
+          "id": 5,
+          "singer": "Wellboy",
+          "name": "Гуси",
+          "key": "wellboy - гуси",
+          "img": "https://static.ukrinform.com/photos/2021_07/thumb_files/630_360_1627208265-248.jpg"
+        },
+        {
+          "id": 6,
+          "singer": "NK",
+          "key": "nk-koly-myne",
+          "name": "Коли мине війна",
+          "img": "https://i.ytimg.com/vi/m129dBP2UI8/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "The HARDKISS",
+      "img": "https://kor.ill.in.ua/m/610x385/2486633.jpg",
+      "recommendations": [
+        {
+          "id": 1,
+          "singer": "KAZKA feat. Alekseev",
+          "name": "Поруч",
+          "key": "alekseev-kazka-poruch",
+          "img": "https://i.scdn.co/image/ab67616d0000b2733ea40aeef5d0ff3fce9be4f4"
+        },
+        {
+          "id": 2,
+          "singer": "Анна Трінчер feat. MBreeze",
+          "name": "Ти робив мені каву",
+          "key": "anna-trincher-mbreeze-ti-robiv-meni-kavu",
+          "img": "https://i.ytimg.com/vi/9Q7kfx5HS2c/maxresdefault.jpg"
+        },
+        {
+          "id": 3,
+          "singer": "Антитіла feat. Ed Sheeran",
+          "name": "2step",
+          "key": "ed-shiran-i-antitila-2step",
+          "img": "https://m.media-amazon.com/images/I/61of97XD6xL._UXNaN_FMjpg_QL85_.jpg"
+        },
+        {
+          "id": 4,
+          "singer": "TVORCHI",
+          "name": "Боремося",
+          "key": "tvorchi-boremosya",
+          "img": "https://images.ams-prd.blv.cloud/eyJidWNrZXQiOiJpbWFnZXMtcHJkLTFvNHV6OXpieHd6cDF1Ym0iLCJrZXkiOiI4MzU5OWMwMy1mZjYzLTQwYTQtYWNlYi1lM2EyN2ZkYjgwOWUiLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjQ4MCwiaGVpZ2h0Ijo0ODB9fX0="
+        },
+        {
+          "id": 5,
+          "singer": "MAMARIKA",
+          "name": "ХХДД",
+          "key": "mamarika-hodyat-hlopc-do-d-vchat-hhdd",
+          "img": "https://i.scdn.co/image/ab67616d0000b273f6510aa3697d4d9da0b8b7c5"
+        },
+        {
+          "id": 6,
+          "singer": "Макс Барских",
+          "key": "maks-barskych-vesna",
+          "name": "Буде весна",
+          "img": "https://i.ytimg.com/vi/RMO0xQdnfBI/maxresdefault.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Averin, CHURSANOV",
+      "img": "https://yt3.googleusercontent.com/4MuId4p0i1nCIsbFGFk0L3okwYl9wJYUqi389VhnwcEjFiju3PrXo2hfYQ8CgeoAVJBNpUdVoYI=s900-c-k-c0x00ffffff-no-rj",
+      "recommendations": [
+        {
+          "id": 1,
+          "singer": "KALUSH",
+          "name": "Стефанія",
+          "key": "kalush-stefania",
+          "img": "https://upload.wikimedia.org/wikipedia/ru/2/27/Stefania_2022_Kalush_Orchesta.jpeg"
+        },
+        {
+          "id": 2,
+          "singer": "Jerry Heil feat. alyona alyona",
+          "name": "Рідні мої",
+          "key": "alyona-alyona-jerry-heil-ridni-moyi",
+          "img": "https://i1.sndcdn.com/artworks-mbW2TGMgY90m-0-t500x500.jpg"
+        },
+        {
+          "id": 3,
+          "singer": "KALUSH feat. Станіславська",
+          "name": "Пірнаю",
+          "key": "kalush-feat.-stan-slavska",
+          "img": "https://notatky.com.ua/wp-content/uploads/2021/03/artwork-1.jpg"
+        },
+        {
+          "id": 4,
+          "singer": "Wellboy",
+          "name": "Струна",
+          "key": "wellboy-struna",
+          "img": "https://i.ytimg.com/vi/6BIqHWolGWo/maxresdefault.jpg"
+        },
+        {
+          "id": 5,
+          "singer": "YAKTAK",
+          "name": "Повістка",
+          "key": "yaktak-povistka",
+          "img": "https://i.scdn.co/image/ab67616d0000b273aca4ab0607a157ab3f22fc54"
+        },
+        {
+          "id": 6,
+          "singer": "DOVI",
+          "key": "dovi-holosovi",
+          "name": "Голосові",
+          "img": "https://muztam.net/images/cover/dovi/dovi-pochnemo-znov.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "KALUSH",
+      "img": "https://inlviv.in.ua/wp-content/uploads/2022/05/kalush-orkestra-yevrobachennya-stefaniya.jpeg",
+      "recommendations": [
+        {
+          "id": 1,
+          "singer": "Антитіла",
+          "name": "Люди, як кораблі",
+          "key": "antitila-ljudi",
+          "img": "https://i.ytimg.com/vi/e5C5vpj8j6M/maxresdefault.jpg"
+        },
+        {
+          "id": 2,
+          "singer": "Skofka",
+          "name": "Ой на ой",
+          "key": "skofka-oyi",
+          "img": "https://i1.sndcdn.com/artworks-XcWr5EhXiOd56RxO-qSKcBw-t500x500.jpg"
+        },
+        {
+          "id": 3,
+          "singer": "Бумбокс",
+          "name": "Люди",
+          "key": "bumboks-ljudi",
+          "img": "https://report.if.ua/wp-content/uploads/2015/12/bumboks_liudy.jpg"
+        },
+        {
+          "id": 4,
+          "singer": "Тартак feat. Катя Chilly",
+          "name": "Понад хмарами",
+          "key": "tartak-ponad-chmaramy",
+          "img": "https://i1.sndcdn.com/artworks-XUGzXIab5jFlvbHz-G0is6w-t500x500.jpg"
+        },
+        {
+          "id": 5,
+          "singer": "Океан Ельзи",
+          "name": "На лінії вогню",
+          "key": "okean-elsy-na-liniyi",
+          "img": "https://static.mp3xa.cc/images/400x400/okean-elzi-okean-jelzy-na-liniyi-vognju.jpg"
+        },
+        {
+          "id": 6,
+          "singer": "ADAM",
+          "key": "adam-povilno",
+          "name": "Повільно",
+          "img": "https://i1.sndcdn.com/artworks-vjLHzJX70tYspWhs-L3kHyw-t500x500.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Jerry Heil",
+      "img": "https://pbs.twimg.com/profile_images/1587195843760857093/Pk-C_qua_400x400.jpg",
+      "recommendations": [
+        {
+          "id": 1,
+          "singer": "Balsam feat. Rivna",
+          "name": "Не питай",
+          "key": "balsam-rivna-ne-pytai",
+          "img": "https://i.scdn.co/image/ab67616d0000b273beb6cbee5159c8c35897b5e0"
+        },
+        {
+          "id": 2,
+          "singer": "LAUD",
+          "name": "У цю ніч",
+          "key": "laud-nich",
+          "img": "https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/20/4e/9b/204e9b0a-73e8-16de-b792-4937ed096075/cover.jpg/1200x1200bf-60.jpg"
+        },
+        {
+          "id": 3,
+          "singer": "100лиця & Skylerr",
+          "name": "Вечорниці",
+          "key": "skyler-100l-vechornytsi",
+          "img": "https://i1.sndcdn.com/artworks-el8vUJhy9LOIhqzi-ci8PuA-t500x500.jpg"
+        },
+        {
+          "id": 4,
+          "singer": "KALUSH feat. Skofka",
+          "name": "Додому",
+          "key": "kalush-dodomu-feat-skofka",
+          "img": "https://freshpic.art/img/2021-12/08/d18fe5gkok9q6h5fuwq5f2sei.jpg"
+        },
+        {
+          "id": 5,
+          "singer": "Balsam",
+          "name": "Заповіт",
+          "key": "balzam-zapovit",
+          "img": "https://i.ytimg.com/vi/s1ZUJW4a6_E/mqdefault.jpg"
+        },
+        {
+          "id": 6,
+          "singer": "Артем Пивоваров x DOROFEEVA",
+          "key": "pyvovarov-dorofeeva",
+          "name": "Думи мої",
+          "img": "https://i.ytimg.com/vi/cIWRUtO0Afk/maxresdefault.jpg"
+        }
+      ]
+    }
+  ],
+  "top-hits": [
+    {
+      "id": 1,
+      "allSongsId": 35
+    },
+    {
+      "id": 2,
+      "allSongsId": 36
+    },
+    {
+      "id": 3,
+      "allSongsId": 37
+    },
+    {
+      "id": 4,
+      "allSongsId": 38
+    },
+    {
+      "id": 5,
+      "allSongsId": 2
+    },
+    {
+      "id": 6,
+      "allSongsId": 5
+    },
+    {
+      "id": 7,
+      "allSongsId": 39
+    },
+    {
+      "id": 8,
+      "allSongsId": 40
+    },
+    {
+      "id": 9,
+      "allSongsId": 41
+    },
+    {
+      "id": 10,
+      "allSongsId": 42
+    },
+    {
+      "id": 11,
+      "allSongsId": 43
+    },
+    {
+      "id": 12,
+      "allSongsId": 44
+    },
+    {
+      "id": 13,
+      "allSongsId": 45
+    },
+    {
+      "id": 14,
+      "allSongsId": 46
+    },
+    {
+      "id": 15,
+      "allSongsId": 47
+    },
+    {
+      "id": 16,
+      "allSongsId": 48
+    },
+    {
+      "id": 17,
+      "allSongsId": 49
+    },
+    {
+      "id": 19,
+      "allSongsId": 50
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "test",
+      "email": "test@gmail.com",
+      "password": "123456",
+      "day": "01",
+      "month": "01",
+      "year": "2001"
+    },
+    {
+      "email": "ivankabilyar2@gmail.com",
+      "password": "12345678",
+      "name": "Ivanna",
+      "day": "07",
+      "month": "6",
+      "year": "2003",
+      "id": "0LIsBIP"
+    }
+  ],
+  "usersPlaylist": [
+    {
+      "id": "ivankabilyar2@gmail.com"
+    }
+  ],
+  "songs": [
+    {
+      "song": {
+        "id": 35,
+        "name": "Провела екскурсію",
+        "key": "parfeniuk-provela-ekskursiyu",
+        "singer": "Parfeniuk",
+        "duration": "2:42",
+        "img": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/60/8c/03/608c03c6-8075-4462-9715-3b62d2f68a1c/cover.jpg/1200x1200bf-60.jpg"
+      },
+      "listId": 4,
+      "id": 1
+    },
+    {
+      "song": {
+        "id": 2,
+        "singerId": 1,
+        "singer": "Golubenko",
+        "name": "На небі",
+        "duration": "2:20",
+        "key": "golubenko-na-nebi",
+        "img": "https://i.ytimg.com/vi/tvG0QfurSL0/maxresdefault.jpg"
+      },
+      "listId": 4,
+      "id": 2
+    },
+    {
+      "song": {
+        "id": 43,
+        "name": "Чаклун",
+        "key": "chaklun",
+        "singer": "KOVALEVSKiY & RAPHAiL",
+        "duration": "2:48",
+        "img": "https://hitsmusic.net/uploads/posts/2023-02/kovalevskiy-chaklun-feat-raphail-1.jpg"
+      },
+      "listId": 4,
+      "id": 3
+    },
+    {
+      "song": {
+        "id": 48,
+        "name": "Серед людей",
+        "key": "kavabanga-depo-lkolibri",
+        "singer": "kavabanga Depo kolibri",
+        "duration": "3:37",
+        "img": "https://i.ytimg.com/vi/-3W-W872ynY/maxresdefault.jpg"
+      },
+      "listId": 4,
+      "id": 4
+    }
+  ],
+  "list": [
+    {
+      "name": "Найкращі пісні",
+      "usersPlaylistId": "ivankabilyar2@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Мій плейлист",
+      "id": 2
+    },
+    {
+      "name": "Улюблені",
+      "id": 3
+    },
+    {
+      "name": "Найпопулярніші пісні",
+      "id": 4
+    }
+  ],
+  "allSongs": [
+    {
+      "id": 1,
+      "singerId": 1,
+      "singer": "Golubenko feat. CLONNEX",
+      "name": "Мила",
+      "key": "golubenko-mila",
+      "duration": "2:52",
+      "img": "https://i.ytimg.com/vi/gheBwP3yDxY/maxresdefault.jpg"
+    },
+    {
+      "id": 2,
+      "singerId": 1,
+      "singer": "Golubenko",
+      "name": "На небі",
+      "duration": "2:20",
+      "key": "golubenko-na-nebi",
+      "img": "https://i.ytimg.com/vi/tvG0QfurSL0/maxresdefault.jpg"
+    },
+    {
+      "id": 3,
+      "singerId": 1,
+      "singer": "Golubenko",
+      "name": "Мовчати",
+      "key": "golubenko-movchati",
+      "duration": "3:21",
+      "img": "https://i.ytimg.com/vi/EvyP7DPAhbw/maxresdefault.jpg"
+    },
+    {
+      "id": 4,
+      "singerId": 1,
+      "singer": "Golubenko",
+      "name": "Знову",
+      "key": "golubenko-znovu",
+      "duration": "2:31",
+      "img": "https://i.ytimg.com/vi/mUbmFnUz0TQ/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "singerId": 2,
+      "singer": "TVORCHI",
+      "name": "Heart of Steel",
+      "key": "tvorchi-heart-of-steel",
+      "duration": "2:36",
+      "img": "https://i.ytimg.com/vi/ZxDEwIyJap8/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "singerId": 2,
+      "singer": "TVORCHI",
+      "name": "Боремося",
+      "key": "tvorchi-boremosya",
+      "duration": "2:10",
+      "img": "https://novy.tv/wp-content/uploads/sites/96/2022/05/tvorchi_2.jpg"
+    },
+    {
+      "id": 7,
+      "singerId": 2,
+      "singer": "TVORCHI",
+      "name": "Falling",
+      "key": "tvorchi-falling",
+      "duration": "2:10",
+      "img": "https://i1.sndcdn.com/artworks-F5pKMYIthM5Gp6Hq-EJXmYQ-t500x500.jpg"
+    },
+    {
+      "id": 8,
+      "singerId": 2,
+      "singer": "TVORCHI",
+      "name": "Believe",
+      "key": "tvorchi-believe",
+      "duration": "3:12",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9Wz0lP_UwbIfUpJShy_xUrP7zNjgMVu_ukCvKTykobySCrjvHPSzszUqr9Y-V5-5vrtA&usqp=CAU"
+    },
+    {
+      "id": 9,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "Сама",
+      "key": "KAZKA - sama",
+      "duration": "3:57",
+      "img": "https://www.stb.ua/wp-content/uploads/2018/03/14/Screenshot-18.png"
+    },
+    {
+      "id": 10,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "М'ята",
+      "key": "KAZKA - М'ята",
+      "duration": "3:53",
+      "img": "https://i.ytimg.com/vi/lHEnm8S9pBU/maxresdefault.jpg"
+    },
+    {
+      "id": 11,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "Мовчати",
+      "key": "kazka-movchati",
+      "duration": "4:09",
+      "img": "https://i.ytimg.com/vi/Jj6DvnV6e2M/maxresdefault.jpg"
+    },
+    {
+      "id": 12,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "I'm not okay",
+      "key": "kazka-im-not-okay",
+      "duration": "3:11",
+      "img": "https://i.ytimg.com/vi/MGgDdU1BYsA/maxresdefault.jpg"
+    },
+    {
+      "id": 13,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "Палала",
+      "key": "KAZKA - Палала",
+      "duration": "3:17",
+      "img": "https://i.ytimg.com/vi/PPKqyudEUAE/maxresdefault.jpg"
+    },
+    {
+      "id": 14,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "Пісня сміливих дівчат",
+      "key": "KAZKA - Пісня Сміливих Дівчат",
+      "duration": "3:06",
+      "img": "https://i.ytimg.com/vi/PPKqyudEUAE/maxresdefault.jpg"
+    },
+    {
+      "id": 15,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "Красива серцем",
+      "key": "kazka-krasyva",
+      "duration": "3:15",
+      "img": "https://i.scdn.co/image/ab67616d0000b27334208e22cc2467047d51fc49"
+    },
+    {
+      "id": 16,
+      "singerId": 3,
+      "singer": "KAZKA",
+      "name": "Свята",
+      "key": "kazka-svyata",
+      "duration": "3:09",
+      "img": "https://i.ytimg.com/vi/B0VAFCKpr74/maxresdefault.jpg"
+    },
+    {
+      "id": 17,
+      "singerId": 4,
+      "singer": "The HARDKISS",
+      "name": "Два вікна",
+      "key": "hardkiss-dva-vikna",
+      "duration": "2:56",
+      "img": "https://gordonua.com/img/article/16541/12_big.jpg"
+    },
+    {
+      "id": 18,
+      "singerId": 4,
+      "singer": "The HARDKISS",
+      "name": "Коханці",
+      "key": "the-hardkiss-kohanc",
+      "duration": "4:01",
+      "img": "https://i.ytimg.com/vi/2fLtqC2BqFo/maxresdefault.jpg"
+    },
+    {
+      "id": 19,
+      "singerId": 4,
+      "singer": "The HARDKISS",
+      "name": "Маяк",
+      "key": "hardkiss-mayak",
+      "duration": "3:26",
+      "img": "https://i.ytimg.com/vi/cMu2Ta6fK_8/maxresdefault.jpg"
+    },
+    {
+      "id": 20,
+      "singerId": 4,
+      "singer": "The HARDKISS",
+      "name": "Мелодія",
+      "key": "hardkiss-melodiya",
+      "duration": "3:54",
+      "img": "https://i.ytimg.com/vi/LdaBczfAzx4/maxresdefault.jpg"
+    },
+    {
+      "id": 21,
+      "singerId": 4,
+      "singer": "The HARDKISS",
+      "name": "Кобра",
+      "key": "hardkiss-monatik-kobra",
+      "duration": "3:40",
+      "img": "https://i.ytimg.com/an/YDqQ9W0_BBM/9911002913232849098_mq.jpg?v=5f48cff2"
+    },
+    {
+      "id": 22,
+      "singerId": 5,
+      "singer": "Averin, CHURSANOV",
+      "name": "Відлюбилося",
+      "key": "averin-vidlubylosya",
+      "duration": "2:33",
+      "img": "https://i.ytimg.com/vi/Hs5OWngKLoc/maxresdefault.jpg"
+    },
+    {
+      "id": 23,
+      "singerId": 5,
+      "singer": "Averin, CHURSANOV",
+      "name": "Квітка",
+      "key": "averin-kvitka",
+      "duration": "2:57",
+      "img": "https://i.ytimg.com/vi/x1keY73dyzo/sddefault.jpg"
+    },
+    {
+      "id": 24,
+      "singerId": 5,
+      "singer": "Averin, CHURSANOV",
+      "name": "Лелека",
+      "key": "averin-leleka",
+      "duration": "2:52",
+      "img": "https://i.ytimg.com/vi/5WV5ZhM0mZM/maxresdefault.jpg"
+    },
+    {
+      "id": 25,
+      "singerId": 5,
+      "singer": "Averin, CHURSANOV",
+      "name": "Не забувай",
+      "key": "averin-ne-zabuvai",
+      "duration": "2:10",
+      "img": "https://i.ytimg.com/vi/OJLnWijeVPw/maxresdefault.jpg"
+    },
+    {
+      "id": 26,
+      "singerId": 5,
+      "singer": "Averin, CHURSANOV",
+      "name": "Звичка",
+      "key": "averin-zvychka",
+      "duration": "4:48",
+      "img": "https://i.ytimg.com/vi/SlxwVnkmOz4/maxresdefault.jpg"
+    },
+    {
+      "id": 27,
+      "singerId": 6,
+      "singer": "KALUSH",
+      "name": "In The Shadows of Ukraine",
+      "key": "kalush-in-the-shadow-of-ukraine",
+      "duration": "3:01",
+      "img": "https://i.ytimg.com/vi/R0ebIzABQm0/maxresdefault.jpg"
+    },
+    {
+      "id": 28,
+      "singerId": 6,
+      "singer": "KALUSH",
+      "name": "Зорі",
+      "key": "kalush-zori",
+      "duration": "3:20",
+      "img": "https://mobclip.net/uploads/posts/2020-11/1606510933_screenshot_4.jpg"
+    },
+    {
+      "id": 29,
+      "singerId": 6,
+      "singer": "KALUSH",
+      "name": "Stefania",
+      "key": "kalush-stefania",
+      "duration": "2:59",
+      "img": "https://upload.wikimedia.org/wikipedia/ru/2/27/Stefania_2022_Kalush_Orchesta.jpeg"
+    },
+    {
+      "id": 30,
+      "singerId": 6,
+      "singer": "KALUSH",
+      "name": "Тіпок",
+      "key": "kalush-tipok",
+      "duration": "2:46",
+      "img": "https://i1.sndcdn.com/artworks-lW8UBCFvxaRIxpZR-tiy85w-t500x500.jpg"
+    },
+    {
+      "id": 31,
+      "singerId": 7,
+      "singer": "Jerry Heil feat. KALUSH",
+      "name": "Хвилі",
+      "key": "KALUSH, Jerry Heil - Хвилі",
+      "duration": "3:16",
+      "img": "https://notatky.com.ua/wp-content/uploads/2021/10/hvyli_kalush_jerry_heil-1.jpg"
+    },
+    {
+      "id": 32,
+      "singerId": 7,
+      "singer": "Jerry Heil",
+      "name": "Кохайтеся чорнобриві",
+      "key": "jerry-heil-kohaitesya",
+      "duration": "1:49",
+      "img": "https://avtoradio.ua/uploads/news/eO4jyX08iG.jpg"
+    },
+    {
+      "id": 33,
+      "singerId": 7,
+      "singer": "Jerry Heil",
+      "name": "Мрія",
+      "key": "jerry-heil-mriya",
+      "duration": "3:02",
+      "img": "https://i1.sndcdn.com/artworks-ufGWBDwWOzhV-0-t500x500.jpg"
+    },
+    {
+      "id": 34,
+      "singerId": 7,
+      "singer": "Jerry Heil",
+      "name": "ТУК-ТУК-ТУК",
+      "key": "jerry-heil-tuk-tuk",
+      "duration": "3:29",
+      "img": "https://i.ytimg.com/vi/YnDg1w2kLMA/maxresdefault.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Провела екскурсію",
+      "key": "parfeniuk-provela-ekskursiyu",
+      "singer": "Parfeniuk",
+      "duration": "2:42",
+      "img": "https://is2-ssl.mzstatic.com/image/thumb/Music122/v4/60/8c/03/608c03c6-8075-4462-9715-3b62d2f68a1c/cover.jpg/1200x1200bf-60.jpg"
+    },
+    {
+      "id": 36,
+      "singerId": 20,
+      "name": "Батьківщина",
+      "key": "kalush-skofka-batkivshina",
+      "singer": "KALUSH x Skofka",
+      "duration": "3:45",
+      "img": "https://i.ytimg.com/vi/CSoCoSHyU5Y/maxresdefault.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Ластівки",
+      "key": "chico-qatoshi-lastivki",
+      "singer": "Chico & Qatoshi",
+      "duration": "2:56",
+      "img": "https://i.ytimg.com/vi/vCNmvFIFQ-I/maxresdefault.jpg"
+    },
+    {
+      "id": 38,
+      "singerId": 5,
+      "name": "Дівчина",
+      "key": "averin-chursanov-divchina",
+      "singer": "Averin, CHURSANOV",
+      "duration": "2:15",
+      "img": "https://i.ytimg.com/vi/16AA0gu4KgI/maxresdefault.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Вигадав",
+      "key": "laud-vigadav",
+      "singer": "LAUD",
+      "duration": "3:19",
+      "img": "https://notatky.com.ua/wp-content/uploads/laud-400-1.jpg"
+    },
+    {
+      "id": 40,
+      "singerId": 7,
+      "name": "WHEN GOD SHUT THE DOOR",
+      "key": "when-god",
+      "singer": "Jerry Heil",
+      "duration": "2:27",
+      "img": "https://i.ytimg.com/vi/aZyUuZisXk0/maxresdefault.jpg"
+    },
+    {
+      "id": 41,
+      "singerId": 6,
+      "name": "Додому",
+      "key": "kalush-dodomu-feat-skofka",
+      "singer": "KALUSH feat. Skofka",
+      "duration": "3:36",
+      "img": "https://freshpic.art/img/2021-12/08/d18fe5gkok9q6h5fuwq5f2sei.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Цей сон",
+      "key": "tsei-son",
+      "singer": "МУЗИЧЕНЬКИ",
+      "duration": "2:31",
+      "img": "https://i.ytimg.com/vi/kVihD0g8X0Q/maxresdefault.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Чаклун",
+      "key": "chaklun",
+      "singer": "KOVALEVSKiY & RAPHAiL",
+      "duration": "2:48",
+      "img": "https://hitsmusic.net/uploads/posts/2023-02/kovalevskiy-chaklun-feat-raphail-1.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Хвилюватися немає причин",
+      "key": "bumboks",
+      "singer": "Бумбокс",
+      "duration": "4:45",
+      "img": "https://bnmusic.com.ua/wp-content/uploads/2019/07/%D0%91%D1%83%D0%BC%D0%B1%D0%BE%D0%BA%D1%81.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Погляд",
+      "key": "yaktak-sobol",
+      "singer": "YAKTAK feat. Sobol",
+      "duration": "2:56",
+      "img": "https://i.ytimg.com/vi/gh2_x4HEYNE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH0CYAC0AWKAgwIABABGGUgWyhVMA8=&rs=AOn4CLBl6-zppwutMPgpEPYXIaf3umzebQ"
+    },
+    {
+      "id": 46,
+      "name": "Спокійно",
+      "key": "dovi-spokijno",
+      "singer": "DOVI",
+      "duration": "2:48",
+      "img": "https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/d8/03/e8/d803e87b-b533-e3e1-1fbc-b1bfc8fc6da0/23UMGIM07977.rgb.jpg/1200x1200bf-60.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Холодна весна",
+      "key": "golubenko-yartak-vesna",
+      "singer": "Golubenko x YAKTAK",
+      "duration": "2:40",
+      "img": "https://i.ytimg.com/vi/345jO_wC2ZU/maxresdefault.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Серед людей",
+      "key": "kavabanga-depo-lkolibri",
+      "singer": "kavabanga Depo kolibri",
+      "duration": "3:37",
+      "img": "https://i.ytimg.com/vi/-3W-W872ynY/maxresdefault.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Троянди",
+      "key": "100l-troyandy",
+      "singer": "100лиця",
+      "duration": "2:40",
+      "img": "https://i.scdn.co/image/ab67616d0000b273c2bc841909b3c6f4b5daa335"
+    },
+    {
+      "id": 50,
+      "name": "Шлях",
+      "key": "skyler-golubenko-shlyach",
+      "singer": "SKYLERR & Golubenko",
+      "duration": "2:15",
+      "img": "https://mp3ua.net/uploads/posts/2023-02/1676980271_skylerr-golubenko-shlyah.jpg"
+    }
+  ]
+}

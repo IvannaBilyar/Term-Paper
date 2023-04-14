@@ -1,0 +1,106 @@
+.add-to-playlist-modal .modal-dialog {
+  max-width: 600px;
+}
+
+.add-to-playlist-modal .modal-content {
+  background: #f5f5f5;
+  backdrop-filter: blur(2px);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.add-to-playlist-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: center;
+  color: #363636;
+}
+
+.add-to-playlist-divider {
+  height: 1px;
+  background: #c3b9cd;
+  border-radius: 20px;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+  margin-top: 30px;
+}
+
+.add-to-playlist-header {
+  border-bottom: none;
+  background: #f5f5f5;
+  backdrop-filter: blur(2px);
+}
+
+.add-to-playlist-content {
+  background: #f5f5f5;
+  backdrop-filter: blur(2px);
+  padding: 30px 50px;
+}
+
+.add-to-playlist-btn {
+  background: rgba(108, 211, 125, 0.73);
+  border-radius: 40px;
+  width: 100%;
+  height: 63px;
+  margin-top: 40px;
+  border: none;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #ffffff;
+}
+
+.add-to-playlist-btn:hover,
+.add-to-playlist-btn:active {
+  background: rgba(108, 211, 125, 0.73) !important;
+  opacity: 0.8;
+}
+
+.create-playlist-btn {
+  background-color: transparent;
+  border: 1px solid rgba(108, 211, 125, 0.73);
+  border-radius: 40px;
+  width: 100%;
+  height: 63px;
+  margin-top: 20px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000;
+}
+
+.create-playlist-btn:hover,
+.create-playlist-btn:active {
+  background-color: transparent !important;
+  border: 1px solid rgba(108, 211, 125, 0.73) !important;
+  color: #000 !important;
+  opacity: 0.6;
+}
+
+.add-to-playlist-select {
+  background: rgba(195, 185, 205, 0.35);
+  border-radius: 20px;
+  height: 60px;
+}
+
+.add-to-playlist-select:focus {
+  border: none;
+  box-shadow: none;
+}
+
+.add-to-playlist-select-label {
+  margin-top: 30px;
+  margin-bottom: 12px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  color: #363636;
+}

@@ -1,0 +1,104 @@
+.library-playlists-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  color: #000000;
+  margin-top: 24px;
+  margin-bottom: 30px;
+}
+
+.library-playlists {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.library-favourites {
+  background: linear-gradient(
+    215.62deg,
+    rgba(204, 135, 216, 0.91) 15.28%,
+    rgba(247, 241, 250, 0.91) 79.13%
+  );
+  backdrop-filter: blur(2px);
+  max-width: 451px;
+  height: 274px;
+  border-radius: 20px;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.library-favourites-inner {
+  height: 100%;
+  background-image: url(../../assets/circled-play.svg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.library-favourites-content {
+  align-self: flex-start;
+}
+
+.library-favourites-title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+}
+
+.library-favourites-text {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #000000;
+}
+
+.library-favourites-divider {
+  background: #c3b9cd;
+  height: 1px;
+  margin: 15px 0;
+}
+
+.new-playlist-btn {
+  background: #bea3ce;
+  mix-blend-mode: color-burn;
+  border-radius: 30px;
+  min-width: 237px;
+  min-height: 72px;
+  border: none;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 22px;
+  color: #000000;
+}
+
+.new-playlist-btn img {
+  margin-right: 10px;
+}
+
+.new-playlist-btn:hover,
+.new-playlist-btn:focus {
+  background: #bea3ce !important;
+  color: #000000 !important;
+  opacity: 0.6;
+}
+
+@media (max-width: 500px) {
+  .library-playlists {
+    gap: 20px;
+  }
+  .library-favourites {
+    max-width: 100%;
+    width: 100%;
+  }
+}
